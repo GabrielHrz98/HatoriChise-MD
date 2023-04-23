@@ -4,7 +4,7 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="MINATO MULTI DEVICE" src="https://img.shields.io/badge/MINATO MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="HATORICHISE MULTI DEVICE" src="https://img.shields.io/badge/MINATO MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/riycoders/followers"><img title="Followers" src="https://img.shields.io/github/followers/riycoders?color=red&style=flat-square"></a>
@@ -31,23 +31,23 @@
 
 ```ts
 {
-  "ownerNumber": ["6281575886399@s.whatsapp.net"],
-  "ownerName": "riycoders",
-  "botName": "Minato-Md",
-  "footer": "Support By xcodeteam.xyz",
+  "ownerNumber": ["6285171178013@s.whatsapp.net"],
+  "ownerName": "GabrielHrz",
+  "botName": "HatoriChiseBOT",
+  "footer": "gabrielhrz.com",
   "packname": "Created By",
-  "author": "@riycoders",
+  "author": "@GabrielHrz",
   "pathimg": "./media/minato.jpg",
   "riykey": "register disini untuk mendapatkan apikey : https://api.riycoders.my.id",
   "quoteapi": "https://quote-api.riycoders.my.id/generate",
   "sosmed": {
-    "youtube": "https://youtube.com/@riycoders",
-    "instagram": "https://instagram.com/riycoders"
+    "youtube": "https://youtube.com/@gabrielhrz117",
+    "instagram": "https://instagram.com/ofcgabrielhrz"
   },
   "donasi": {
-    "dana": "081575886399",
-    "gopay": "081575886399",
-    "pulsa": "081575886399"
+    "dana": "085171220913",
+    "gopay": "085171220913",
+    "pulsa": "085171220913"
   },
   "gamewaktu": 90,
   "limitCount": 25,
@@ -60,11 +60,13 @@
 </details>
 
 ## Official Group
-<a href="https://chat.whatsapp.com/Kovvlm093ni28Y50umWKdE"><img src="https://img.shields.io/badge/Forum Minato Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/CJ1URJb9MX9IJWzCXb1biR"><img src="https://img.shields.io/badge/Forum Minato Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ## Thanks to
 • [Irfan H.](https://github.com/rtwone)
 • [Yoga A.](https://github.com/yogGanz)
-• [Guntur](https://github.com/gabrielhrz)
+• [Guntur](https://Github.com/GabrielHrz98)
 • [riycoders](https://github.com/riycoders)
 • [X-Code](https://xcodeteam.xyz)
+• [Vriend's](https://gabrielhrz com)
+
