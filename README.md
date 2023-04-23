@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/file/c37dcf885413c4c1f01f7.jpg" alt="MINATO BOT" width="100"/>
+<img src="https://telegra.ph/file/2c6442914498dce0cc440.jpg" alt="HatoriChise BOT" width="100"/>
 
 
 </p>
