@@ -68,5 +68,5 @@
 • [Guntur](https://Github.com/GabrielHrz98)
 • [riycoders](https://github.com/riycoders)
 • [X-Code](https://xcodeteam.xyz)
-• [Vriends](https://gabrielhrz com)
+
 
