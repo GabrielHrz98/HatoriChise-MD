@@ -1,5 +1,5 @@
 {
-  "name": "minato-md",
+  "name": "HatoriChise MD",
   "version": "0.0.1",
   "description": "Simple whatsapp bot with multi device.",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "riycoders",
+  "author": "GabrielHrz",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "github:riycoders/baileys",
